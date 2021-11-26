@@ -1,0 +1,2 @@
+﻿anti_affinity_data;description;display_name;enable_client_restrictions;enable_pre_launch;enabled;executable_path;farm_id;max_multi_sessions;multi_session_mode;name;parameters;start_folder
+"@{anti_affinity_count=10; anti_affinity_patterns=System.Object[]}";Microsoft Teams Client;Microsoft Teams Cli;FALSE;FALSE;TRUE;C:\Program Files (x86)\Microsoft\Teams\current\Teams.exe;855ea6c5-720a-41e1-96f4-958c90e6e424;5;DISABLED;MicrosoftTeamsClient;;C:\Program Files (x86)\Microsoft\Teams\current

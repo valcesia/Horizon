@@ -1,4 +1,4 @@
-# Define Variablees
+# Define Variables
 $CS = "cs.virtual.lab"
 $username = "username"
 $password = "password"
